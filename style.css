@@ -84,3 +84,8 @@ div {
 {
 margin-left: 20px;
 }
+
+
+.img-responsive{
+    border-radius: 30px;
+}
